@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SF3b0jz/IPXZeUhXT9cATO/f0l7PHY9LzQpad3xlvBCkNoVxllqSsR3gtqPzbo9KD9L+bzoEGUjOjVcGeIE2xA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Service\\Modelo.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
