@@ -1,11 +1,8 @@
 ﻿using Modelo.Domain.Entities;
 using Modelo.Domain.Interfaces;
 using Modelo.Infra.Data.Context;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Modelo.Infra.Data.Repository
 {

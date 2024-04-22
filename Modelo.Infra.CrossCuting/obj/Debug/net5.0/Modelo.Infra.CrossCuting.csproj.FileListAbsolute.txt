@@ -1,0 +1,13 @@
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.CrossCuting\bin\Debug\net5.0\Modelo.Infra.CrossCuting.deps.json
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.CrossCuting\bin\Debug\net5.0\Modelo.Infra.CrossCuting.dll
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.CrossCuting\bin\Debug\net5.0\Modelo.Infra.CrossCuting.pdb
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.CrossCuting\obj\Debug\net5.0\Modelo.Infra.CrossCuting.csproj.AssemblyReference.cache
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.CrossCuting\obj\Debug\net5.0\Modelo.Infra.CrossCuting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.CrossCuting\obj\Debug\net5.0\Modelo.Infra.CrossCuting.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.CrossCuting\obj\Debug\net5.0\Modelo.Infra.CrossCuting.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.CrossCuting\obj\Debug\net5.0\Modelo.Infra.CrossCuting.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.CrossCuting\obj\Debug\net5.0\Modelo.Infra.CrossCuting.sourcelink.json
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.CrossCuting\obj\Debug\net5.0\Modelo.Infra.CrossCuting.dll
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.CrossCuting\obj\Debug\net5.0\refint\Modelo.Infra.CrossCuting.dll
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.CrossCuting\obj\Debug\net5.0\Modelo.Infra.CrossCuting.pdb
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.CrossCuting\obj\Debug\net5.0\ref\Modelo.Infra.CrossCuting.dll

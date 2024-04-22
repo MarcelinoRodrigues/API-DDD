@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HCjrgLTsJGQDxtu94r7jrt2KFsVhxYOshtwuz3tqmzIcyhY/JQGrYwgh1CzlgRyIgtjRJZZOs194belKTqfetw==",
+  "dgSpecHash": "r8/z1zhv97fkt7dtAAmaCZ8ixF86AYZZwcAIi+GZVG8iZzRtUszbhsGJ67CGiQm7AgikbtQQDd9tXpbez9S+7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Domain\\Modelo.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Domain\\Modelo.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\marce\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+    "C:\\Users\\Notebook\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\Notebook\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Notebook\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Notebook\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }

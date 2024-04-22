@@ -1,0 +1,6 @@
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net5.0\Modelo.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net5.0\Modelo.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net5.0\Modelo.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net5.0\Modelo.Infra.Data.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net5.0\Modelo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net5.0\Modelo.Infra.Data.sourcelink.json

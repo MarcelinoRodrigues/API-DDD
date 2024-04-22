@@ -1,42 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\BahrsAPI\\BahrsAPI.csproj": {}
+    "C:\\Users\\Notebook\\source\\repos\\API-DDD\\BahrsAPI\\BahrsAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\BahrsAPI\\BahrsAPI.csproj": {
+    "C:\\Users\\Notebook\\source\\repos\\API-DDD\\BahrsAPI\\BahrsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\BahrsAPI\\BahrsAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\BahrsAPI\\BahrsAPI.csproj",
         "projectName": "BahrsAPI",
-        "projectPath": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\BahrsAPI\\BahrsAPI.csproj",
-        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\BahrsAPI\\obj\\",
+        "projectPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\BahrsAPI\\BahrsAPI.csproj",
+        "packagesPath": "C:\\Users\\Notebook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\BahrsAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Notebook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Domain\\Modelo.Domain.csproj": {
-                "projectPath": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Domain\\Modelo.Domain.csproj"
+              "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Domain\\Modelo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Domain\\Modelo.Domain.csproj"
               },
-              "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Service\\Modelo.Service.csproj": {
-                "projectPath": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Service\\Modelo.Service.csproj"
+              "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Service\\Modelo.Service.csproj": {
+                "projectPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Service\\Modelo.Service.csproj"
               }
             }
           }
@@ -45,11 +41,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -62,10 +63,29 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -74,37 +94,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Domain\\Modelo.Domain.csproj": {
+    "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Domain\\Modelo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Domain\\Modelo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Domain\\Modelo.Domain.csproj",
         "projectName": "Modelo.Domain",
-        "projectPath": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Domain\\Modelo.Domain.csproj",
-        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Domain\\Modelo.Domain.csproj",
+        "packagesPath": "C:\\Users\\Notebook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Notebook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -112,15 +128,20 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
-              "version": "[10.4.0, )"
+              "version": "[11.9.0, )"
             }
           },
           "imports": [
@@ -129,49 +150,60 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Service\\Modelo.Service.csproj": {
+    "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Service\\Modelo.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Service\\Modelo.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Service\\Modelo.Service.csproj",
         "projectName": "Modelo.Service",
-        "projectPath": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Service\\Modelo.Service.csproj",
-        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Service\\obj\\",
+        "projectPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Service\\Modelo.Service.csproj",
+        "packagesPath": "C:\\Users\\Notebook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Service\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Notebook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Domain\\Modelo.Domain.csproj": {
-                "projectPath": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Domain\\Modelo.Domain.csproj"
+              "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Domain\\Modelo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Domain\\Modelo.Domain.csproj"
               }
             }
           }
@@ -180,15 +212,20 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
-              "version": "[10.4.0, )"
+              "version": "[11.9.0, )"
             }
           },
           "imports": [
@@ -197,16 +234,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
