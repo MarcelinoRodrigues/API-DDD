@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modelo.Infra.CrossCuting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5f521414c2ec2a7ff6de111cda5925ad1d03d45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afa14d4513f54adf62bfc02531816b0cae18648a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modelo.Infra.CrossCuting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modelo.Infra.CrossCuting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
