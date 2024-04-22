@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "n0NxeFVcFL3EAxx2Tn2ELgE2WQhMt1ZzPRXlMyY9/zT7/R67fg09Vut7nw5URzHabLlrQOP7irHKkyFXlGJ19Q==",
+  "dgSpecHash": "nMxmYiziuDOsVSiL/Ao2rAVdpp6zrgedWadtZR9dshR7zCGiY4MxEXe9B2r9wWLm8mCNbIHqtQK6oKiF2y9iBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marce\\source\\repos\\BaseCarAPI\\Modelo.Infra.CrossCuting\\Modelo.Infra.CrossCuting.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Infra.CrossCuting\\Modelo.Infra.CrossCuting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Notebook\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Notebook\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Notebook\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

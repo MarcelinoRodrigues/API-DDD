@@ -1,0 +1,7 @@
+C:\Users\Notebook\source\repos\API-DDD\BahrsAPI\obj\Debug\net7.0\BahrsAPI.csproj.AssemblyReference.cache
+C:\Users\Notebook\source\repos\API-DDD\BahrsAPI\obj\Debug\net7.0\BahrsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\source\repos\API-DDD\BahrsAPI\obj\Debug\net7.0\BahrsAPI.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\API-DDD\BahrsAPI\obj\Debug\net7.0\BahrsAPI.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\API-DDD\BahrsAPI\obj\Debug\net7.0\BahrsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\API-DDD\BahrsAPI\obj\Debug\net7.0\BahrsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Notebook\source\repos\API-DDD\BahrsAPI\obj\Debug\net7.0\BahrsAPI.sourcelink.json

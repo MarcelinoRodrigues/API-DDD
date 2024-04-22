@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Modelo.Infra.CrossCuting/1.0.0": {
+        "runtime": {
+          "Modelo.Infra.CrossCuting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modelo.Infra.CrossCuting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -8,27 +8,19 @@ namespace Modelo.Infra.Data.Mapping
     {
         public void Configure(EntityTypeBuilder<User> builder)
         {
-            builder.ToTable("User");
-
             builder.HasKey(prop => prop.Id);
 
             builder.Property(prop => prop.Name)
                 .HasConversion(prop => prop.ToString(), prop => prop)
-                .IsRequired()
-                .HasColumnName("Name")
-                .HasColumnType("varchar(100)");
+                .IsRequired();
 
             builder.Property(prop => prop.Email)
                .HasConversion(prop => prop.ToString(), prop => prop)
-               .IsRequired()
-               .HasColumnName("Email")
-               .HasColumnType("varchar(100)");
+               .IsRequired();
 
             builder.Property(prop => prop.Password)
                 .HasConversion(prop => prop.ToString(), prop => prop)
-                .IsRequired()
-                .HasColumnName("Password")
-                .HasColumnType("varchar(100)");
+                .IsRequired();
         }
     }
 }
