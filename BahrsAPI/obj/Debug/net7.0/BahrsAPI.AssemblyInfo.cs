@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BahrsAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+970e4322cf24d46b2990524572a2ad4287ca31e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5b0e451694148e945853e223a9e728cbadd8691")]
 [assembly: System.Reflection.AssemblyProductAttribute("BahrsAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BahrsAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,7 +18,7 @@ namespace BahrsAPI.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<MovieTheater> GetSalasDeCinema()
+        public IActionResult GetSalasDeCinema()
         {
             List<MovieTheater> salas = new List<MovieTheater>();
 
@@ -46,7 +46,7 @@ namespace BahrsAPI.Controllers
                 Console.WriteLine($"Erro ao conectar ao banco de dados: {ex.Message}");
             }
 
-            return salas;
+            return Ok(salas);
         }
 
         [HttpPost]
@@ -62,7 +62,7 @@ namespace BahrsAPI.Controllers
             {
                 connection.Open();
                 command.ExecuteNonQuery();
-                return StatusCode(201); // Retorna o código 201 (Created)
+                return StatusCode(201); // Retorna o código 201 
             }
             catch (Exception ex)
             {
