@@ -31,6 +31,9 @@
               "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Domain\\Modelo.Domain.csproj": {
                 "projectPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Domain\\Modelo.Domain.csproj"
               },
+              "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Infra.Data\\Modelo.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Infra.Data\\Modelo.Infra.Data.csproj"
+              },
               "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Service\\Modelo.Service.csproj": {
                 "projectPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Service\\Modelo.Service.csproj"
               }
@@ -52,9 +55,23 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -178,6 +195,90 @@
         }
       }
     },
+    "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Infra.Data\\Modelo.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Infra.Data\\Modelo.Infra.Data.csproj",
+        "projectName": "Modelo.Infra.Data",
+        "projectPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Infra.Data\\Modelo.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Notebook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Notebook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Domain\\Modelo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Domain\\Modelo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Notebook\\source\\repos\\API-DDD\\Modelo.Service\\Modelo.Service.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -226,6 +327,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[11.9.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
             }
           },
           "imports": [

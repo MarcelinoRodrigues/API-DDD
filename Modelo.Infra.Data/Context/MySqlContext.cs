@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Modelo.Domain.Entities;
-using Modelo.Infra.Data.Mapping;
 
 namespace Modelo.Infra.Data.Context
 {
@@ -11,13 +10,11 @@ namespace Modelo.Infra.Data.Context
 
         }
 
-        public DbSet<User> Users { get; set; }
+        public DbSet<MovieTheater> MovieTheaters { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-
-            modelBuilder.Entity<User>(new UserMap().Configure);
         }
     }
 }

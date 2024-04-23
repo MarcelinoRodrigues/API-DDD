@@ -18,7 +18,7 @@
         /// <summary>
         /// Duração do Filme
         /// </summary>
-        public int Duração { get; set; }
+        public int Duration { get; set; }
 
         /// <summary>
         /// Id da sala
