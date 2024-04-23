@@ -1,0 +1,16 @@
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\bin\Debug\net7.0\Modelo.Infra.Data.deps.json
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\bin\Debug\net7.0\Modelo.Infra.Data.dll
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\bin\Debug\net7.0\Modelo.Infra.Data.pdb
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\bin\Debug\net7.0\Modelo.Domain.dll
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\bin\Debug\net7.0\Modelo.Domain.pdb
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net7.0\Modelo.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net7.0\Modelo.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net7.0\Modelo.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net7.0\Modelo.Infra.Data.AssemblyInfo.cs
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net7.0\Modelo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net7.0\Modelo.Infra.Data.sourcelink.json
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net7.0\Modelo.I.2E373E12.Up2Date
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net7.0\Modelo.Infra.Data.dll
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net7.0\refint\Modelo.Infra.Data.dll
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net7.0\Modelo.Infra.Data.pdb
+C:\Users\Notebook\source\repos\API-DDD\Modelo.Infra.Data\obj\Debug\net7.0\ref\Modelo.Infra.Data.dll

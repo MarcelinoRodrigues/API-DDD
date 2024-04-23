@@ -6,10 +6,15 @@
 
   <ItemGroup>
     <PackageReference Include="FluentValidation" Version="11.9.0" />
+    <PackageReference Include="MySql.Data" Version="8.3.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Modelo.Domain\Modelo.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>
