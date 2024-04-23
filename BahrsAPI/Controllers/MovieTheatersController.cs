@@ -4,7 +4,6 @@ using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
 
-
 namespace BahrsAPI.Controllers
 {
     [Route("api/[controller]")]

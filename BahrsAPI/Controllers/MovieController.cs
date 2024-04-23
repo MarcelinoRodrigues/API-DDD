@@ -33,7 +33,7 @@ namespace BahrsAPI.Controllers
                         Name = reader.GetString("Name"),
                         Director = reader.GetString("Director"),
                         Duration = reader.GetInt32("Duration"),
-                        SalaId = reader.IsDBNull(reader.GetOrdinal("SalaId")) ? null : (int?)int.Parse(reader.GetString(reader.GetOrdinal("SalaId")))
+                        SalaId = reader.IsDBNull(reader.GetOrdinal("SalaId")) ? (int?)null : reader.GetInt32(reader.GetOrdinal("SalaId"))
                     };
                     movies.Add(movie);
                 }
